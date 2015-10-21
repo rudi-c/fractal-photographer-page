@@ -1,7 +1,7 @@
 ---
 layout: default
 img: screenshot3.jpg
-category: Services
+category: Features
 title: ...on any Windows 10 device!
 description: |
 ---

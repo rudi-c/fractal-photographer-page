@@ -1,7 +1,7 @@
 ---
 layout: default
 img: screenshot1.jpg
-category: Services
+category: Features
 title: Create...
 description: |
 ---
