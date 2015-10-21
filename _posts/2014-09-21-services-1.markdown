@@ -2,7 +2,7 @@
 layout: default
 img: screenshot1.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Create...
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Fractal Photographer comes with a wide array of carefully designed color schemes to create inspiring images. To keep the experience fun, beautiful and clean, the app is both free and ad-free.

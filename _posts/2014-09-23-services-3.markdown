@@ -2,7 +2,8 @@
 layout: default
 img: screenshot3.jpg
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: ...on any Windows 10 device!
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+
+  Fractal Photographer is built for both desktop and tablets. You can navigate the deep patterns - pan, rotate, zoom - with mouse or touch!
