@@ -164,3 +164,9 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.gallery-image {
+    width: 25rem;
+    border-radius: 10px;
+    padding: 4px;
+}
